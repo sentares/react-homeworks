@@ -1,0 +1,93 @@
+[
+	{
+		"product": "Яйца",
+		"name": "Яйца С0 из Лавки",
+		"price": 59,
+		"category": "Все из лавки",
+		"count": "10 шт",
+		"active": false,
+		"id": "1",
+		"lavka": "lavka",
+		"imageUrl": "https://yastatic.net/avatars/get-grocery-goods/2888787/20c62f93-65da-406e-813f-4ab09481cd97/230x230-webp"
+	},
+	{
+		"product": "Яйца",
+		"name": "Яйца С1 из Лавки",
+		"price": 93,
+		"category": "Все из лавки",
+		"count": "10 шт",
+		"active": false,
+		"id": "2",
+		"imageUrl": "https://yastatic.net/avatars/get-grocery-goods/2805921/4429d1e5-6422-48a4-8581-4bd8b579f323/464x464-webp"
+	},
+	{
+		"product": "Вода",
+		"name": "Вода минеральная",
+		"price": 80,
+		"category": "Все из лавки",
+		"count": "5 л",
+		"active": false,
+		"id": "3",
+		"imageUrl": "https://yastatic.net/avatars/get-grocery-goods/2998515/18e85815-9993-4287-8ac6-e529b45e713f/230x230-webp"
+	},
+	{
+		"product": "Вода",
+		"name": "Вода минеральная без газа",
+		"price": 40,
+		"category": "Все из лавки",
+		"count": "1 л",
+		"active": false,
+		"id": "4",
+		"imageUrl": "https://yastatic.net/avatars/get-grocery-goods/2783132/7739d8fb-6d9f-4916-bef1-d105bdf9641f/464x464-webp"
+	},
+	{
+		"product": "Вода",
+		"name": "Вода минеральная с газом",
+		"price": 40,
+		"category": "Все из лавки",
+		"count": "1 л",
+		"active": false,
+		"id": "5",
+		"imageUrl": "https://yastatic.net/avatars/get-grocery-goods/2750890/8b4950a6-cdc3-43aa-82f4-1ab8821d4b48/464x464-webp"
+	},
+	{
+		"product": "Молочные продукты",
+		"name": "Сметана 15%",
+		"price": 59,
+		"category": "Все из лавки",
+		"count": "250 г",
+		"active": false,
+		"id": "6",
+		"imageUrl": "https://yastatic.net/avatars/get-grocery-goods/2888787/00381af5-bda6-47d7-941c-612f81241c3c/464x464-webp"
+	},
+	{
+		"product": "Молочные продукты",
+		"name": "Сметана 25%",
+		"price": 69,
+		"category": "Все из лавки",
+		"count": "250 г",
+		"active": false,
+		"id": "7",
+		"imageUrl": "https://yastatic.net/avatars/get-grocery-goods/2805921/ac016ae9-74ae-45e0-b318-26c4ee8e5e30/464x464-webp"
+	},
+	{
+		"product": "Молочные продукты",
+		"name": "Творог пластовой 4-6%",
+		"price": 90,
+		"category": "Все из лавки",
+		"count": "250 г",
+		"active": false,
+		"id": "8",
+		"imageUrl": "https://yastatic.net/avatars/get-grocery-goods/2791769/57d5ee2a-388f-4fd7-bb0e-910893e1ec32/464x464-webp"
+	},
+	{
+		"product": "Молочные продукты",
+		"name": "Творог пластовой клубничный",
+		"price": 104,
+		"category": "Все из лавки",
+		"count": "190 г",
+		"active": false,
+		"id": "9",
+		"imageUrl": "https://yastatic.net/avatars/get-grocery-goods/2783132/56972669-4314-49b6-b6e1-809f7ac14462/464x464-webp"
+	}
+]
